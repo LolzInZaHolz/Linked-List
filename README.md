@@ -8,7 +8,7 @@ without the STL.
 
 ------------------------------------------------------------------------
 
-## 📘 Overview
+##  Overview
 
 This project contains a custom `LinkedList` class built around a simple
 `node` structure:
@@ -25,7 +25,7 @@ to interact with the linked list in real time.
 
 ------------------------------------------------------------------------
 
-## ✨ Features
+##  Features
 
 ### Core Operations
 
@@ -48,7 +48,7 @@ to interact with the linked list in real time.
 
 ------------------------------------------------------------------------
 
-## 🖥️ Menu‑Driven Interface
+##  Menu‑Driven Interface
 
 The program includes a simple console-based interface allowing users to
 test all operations:
@@ -66,51 +66,16 @@ test all operations:
 
 ------------------------------------------------------------------------
 
-## 📂 File Structure
 
-    LinkedList/
-    │── main.cpp        # Full implementation of the LinkedList class and menu
-    │── README.md       # Project documentation (this file)
 
-------------------------------------------------------------------------
-
-## 🚀 How to Compile & Run
-
-Use any C++ compiler such as `g++`.
-
-### Compile:
-
-``` bash
-g++ main.cpp -o linkedlist
-```
-
-### Run:
-
-``` bash
-./linkedlist
-```
-
-------------------------------------------------------------------------
-
-## 🎯 Purpose of the Project
-
-This project is ideal for:
-
--   Students learning data structures\
--   Practicing C++ pointer manipulation\
--   Understanding linked list mechanics\
--   Debugging and step‑by‑step observation of node operations
-
-------------------------------------------------------------------------
-
-## 📝 License
+##  License
 
 This project is free to use, modify, and distribute for learning and
 academic purposes.
 
 ------------------------------------------------------------------------
 
-## 📧 Contributions
+##  Contributions
 
 Feel free to submit issues or pull requests if you'd like to improve or
 optimize the implementation.
